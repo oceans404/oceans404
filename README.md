@@ -11,6 +11,6 @@ I’m a web3 developer working at Polygon Labs, the development and growth team 
   -  [Automate the execution of your smart contracts](https://github.com/oceans404/keepers-contracts) with Chainlink Keepers
   -  [How to decentralize hosting of your front-end React app - Deploy to Fleek](https://github.com/oceans404/fullstack-sockets-demo#deploy-your-frontend)
 
-🏆 I love the energy of hackathons. I've entered and won 7 since [EthOnline 2021](https://youtu.be/xJiABLuD06g?t=1463), and now I mentor web3 devs and help people build cool shit all over the world.
+🏆 I love the energy of hackathons. I've entered and won 7+ since [EthOnline 2021](https://youtu.be/xJiABLuD06g?t=1463), most recently building [Wallet OTP](https://github.com/oceans404/wallet-otp), a decentralized 2FA app. As a DevRel Engineer I mentor web3 builders at hackathons, helping them build useful web3 products all over the world
 
-👻 In my past life I was a web2 dev aka a software developer at Amazon, AWS, SONY, and a few startups. I went full time in web3 in 2022 after realizing I was spending my nights and weekends in the crypto space and needed to follow my energy and passion.
+👻 Before web3, I was a software developer at Amazon, AWS, SONY, and a few startups. I went full time in web3 in 2022 after realizing I was spending my nights and weekends in the crypto space and needed to follow my energy and passion.
