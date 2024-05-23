@@ -3,8 +3,11 @@
 I’m a web3 developer & MPC experimentor, currently leading Developer Relations at [Nillion](https://twitter.com/nillionnetwork). Want to build on Nillion? I've created these resources to get you up to speed and building fast:
 
 - [Nillion Docs](https://github.com/NillionNetwork/nillion-docs) 
-- [Scaffold-Nillion](https://github.com/NillionNetwork/scaffold-nillion), a NextJS toolkit for creating Nillion apps
+- [Scaffold-Nillion](https://github.com/NillionNetwork/scaffold-nillion), a NextJS toolkit for creating fullstack Nillion blind applications
 - [nillion-python-starter](https://github.com/NillionNetwork/nillion-python-starter), an opinionated Python starter for writing Nada programs, compiling programs, and scripting out interactions with Nillion
+- More examples
+    - [Rock Paper Scissors py-game](https://github.com/oceans404/pex-nillion-rps) with blind computation
+    - [Bitcoin Pizza Day Nada program](https://github.com/oceans404/btc-pizza-day-nada) for ordering the right amount of pizzas for your friends
 
 ## more web3 work
 
