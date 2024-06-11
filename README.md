@@ -1,6 +1,6 @@
 ### 👩🏻‍💻 gm! I'm Steph aka [oceans404](https://twitter.com/0ceans404)
 
-I’m a web3 developer & MPC experimentor, currently leading Developer Relations at [Nillion](https://twitter.com/nillionnetwork). Want to build on Nillion? I've created these resources to get you up to speed and building fast:
+I’m a web3 developer creating dev tools and leading DevRel at [Nillion](https://twitter.com/nillionnetwork). Want to build on Nillion? I've created these resources to get you up to speed and building fast:
 
 - [Nillion Docs](https://github.com/NillionNetwork/nillion-docs) 
 - [Scaffold-Nillion](https://github.com/NillionNetwork/scaffold-nillion), a NextJS toolkit for creating fullstack Nillion blind applications
@@ -24,6 +24,6 @@ I worked at Polygon Labs, the development and growth team for [Polygon](https://
   -  [Automate the execution of your smart contracts](https://github.com/oceans404/keepers-contracts) with Chainlink Keepers
   -  [How to decentralize hosting of your front-end React app - Deploy to Fleek](https://github.com/oceans404/fullstack-sockets-demo#deploy-your-frontend)
 
-## bw3 (before web3)
+## web2 work
 
-👻 Before web3, I was a software developer at Amazon, AWS, SONY, and a few startups - [linkedin](https://www.linkedin.com/in/stephorpilla/). I went full time in web3 in 2022 after realizing I was spending my nights and weekends in the crypto space and needed to follow my energy and passion.
+👻 Before web3, I was a software developer at Amazon, AWS, SONY, and a few startups - [linkedin](https://www.linkedin.com/in/stephorpilla/). I went full time in web3 during covid after realizing I was spending most of my time exploring and building in the crypto space.
