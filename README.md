@@ -8,6 +8,7 @@ I’m a web3 developer creating dev tools and leading DevRel at [Nillion](https:
 - More examples
     - [Rock Paper Scissors py-game](https://github.com/oceans404/pex-nillion-rps) with blind computation
     - [Bitcoin Pizza Day Nada program](https://github.com/oceans404/btc-pizza-day-nada) for ordering the right amount of pizzas for your friends
+    - [Linear regression on housing data with blind inference](https://github.com/oceans404/nada-linear-regression-housing) using nada-ai
 
 ## more web3 work
 
