@@ -3,6 +3,7 @@
 I’m a web3 developer creating dev tools and leading DevRel at [Nillion](https://twitter.com/nillionnetwork). Want to build on Nillion? I've created these resources to get you up to speed and building fast:
 
 - [Nillion Docs](https://github.com/NillionNetwork/nillion-docs) 
+- [Nada by Example](https://docs.nillion.com/nada-by-example), a Portal where you can learn the Nada language fast with Nada program examples and 1-click environment setup via Gitpod
 - [Scaffold-Nillion](https://github.com/NillionNetwork/scaffold-nillion), a NextJS toolkit for creating fullstack Nillion blind applications
 - [nillion-python-starter](https://github.com/NillionNetwork/nillion-python-starter), an opinionated Python starter for writing Nada programs, compiling programs, and scripting out interactions with Nillion
 - More examples
